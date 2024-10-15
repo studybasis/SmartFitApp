@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910695424791",
+    "project_id": "smartfit-34c40",
+    "storage_bucket": "smartfit-34c40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910695424791:android:b98ca7c1ce349a0854cd52",
+        "android_client_info": {
+          "package_name": "com.example.smartfitapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkmUDTGxegyLSQKoArbyk83S9XDL4Bt8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
